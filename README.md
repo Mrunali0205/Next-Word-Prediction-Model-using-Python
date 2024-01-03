@@ -44,4 +44,4 @@ Extending the model to generate complete sentences or paragraphs.
 How to Use:
 Users can input a seed text, and the model will predict the next few words.
 The model can be further trained or fine-tuned with additional or specific text data.
-This comprehensive description encapsulates the essence, methodology, achievements, and future potential of your Next Word Prediction Model, making it an ideal addition to your GitHub repository.
+This comprehensive description encapsulates the essence, methodology, achievements, and future potential of your Next Word Prediction Model
